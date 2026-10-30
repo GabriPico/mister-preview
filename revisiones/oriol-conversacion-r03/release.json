@@ -1,0 +1,39 @@
+{
+  "version": "2026-10-30T11-47-09-472Z",
+  "scope": "oriol-speech-review",
+  "demo": true,
+  "artReview": "pending",
+  "states": [
+    "fixed",
+    "silent-rest",
+    "speech-during-text",
+    "return-to-rest"
+  ],
+  "assets": [
+    {
+      "name": "assets/room-03b1ba5948b7b7a9.png",
+      "bytes": 1862623,
+      "sha256": "03b1ba5948b7b7a9665837786fb7d4277e60559b0baa28eaa2a54198a0d309c3"
+    },
+    {
+      "name": "assets/portrait-95602a6c2a6c8ce6.png",
+      "bytes": 1229543,
+      "sha256": "95602a6c2a6c8ce68cb95ee404d578c253aa760aad49d27b6a7d909656a59f6b"
+    },
+    {
+      "name": "assets/atlas-0-81c0674694cc21c9.webp",
+      "bytes": 501022,
+      "sha256": "81c0674694cc21c9ff4904726a825e137d0b575144c7159da528f5053601d3f6"
+    },
+    {
+      "name": "assets/atlas-1-239f0621632c694f.webp",
+      "bytes": 518302,
+      "sha256": "239f0621632c694f143c6c43a651eaf80a7e2a013f7a1571e0069baa5f2160ae"
+    },
+    {
+      "name": "assets/atlas-2-83c4c0e1a4400722.webp",
+      "bytes": 440482,
+      "sha256": "83c4c0e1a4400722ac3f6b7d2391c98fb44b72b7903b2605a96ab48ac2232fd8"
+    }
+  ]
+}
