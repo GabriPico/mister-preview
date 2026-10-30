@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-30T05-54-42-710Z",
+  "version": "2026-10-30T06-40-17-210Z",
   "scope": "vestuario-conversation-review",
   "demo": true,
   "artReview": "pending",
@@ -237,19 +237,19 @@
       "bytes": 1862623
     },
     {
-      "name": "assets/portrait-29bee156048f02f7.png",
-      "sha256": "29bee156048f02f7238e6939a12922e2e0a87181298d1f2ea77040262ce60637",
-      "bytes": 1265560
+      "name": "assets/portrait-f58d98aa61610054.png",
+      "sha256": "f58d98aa61610054e12a1c3ad42547b1d0d68951c9f5a31799e2306132e665bb",
+      "bytes": 1340165
     },
     {
-      "name": "assets/portrait-fee1e139dd1508ce.png",
-      "sha256": "fee1e139dd1508ce25639d3b75d683a3099fea3bebb3b81fbaba83e047300eea",
-      "bytes": 1078253
+      "name": "assets/portrait-7b0edba6e044accc.png",
+      "sha256": "7b0edba6e044acccd36a67ea68471b721b4d5e3ab7ea16c54ed6d013efe3af4d",
+      "bytes": 1140729
     },
     {
-      "name": "assets/portrait-fa2f9f9cc3621e67.png",
-      "sha256": "fa2f9f9cc3621e676f37ebe84887a0b3db1f1e9c98d40a3539d4c5220648ca1e",
-      "bytes": 1164789
+      "name": "assets/portrait-95602a6c2a6c8ce6.png",
+      "sha256": "95602a6c2a6c8ce68cb95ee404d578c253aa760aad49d27b6a7d909656a59f6b",
+      "bytes": 1229543
     }
   ]
 }
